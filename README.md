@@ -1,5 +1,5 @@
 # wesite link
-https://www.instagram-clone-raviahlad.web.app
+https://instagram-clone-raviahlad.web.app/
 
 
 
